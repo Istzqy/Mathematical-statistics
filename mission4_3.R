@@ -153,7 +153,6 @@ for (j in 1:length(threshold_f)) {
       tpr_f_es[j] <- 0 
     }
   }
-  
 }
 
 # 使用roc函数创建ROC曲线对象
